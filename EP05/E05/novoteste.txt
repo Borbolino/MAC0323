@@ -1,0 +1,100 @@
+1.0.0.0,1.0.0.255,OC,AU,Queensland,"South Brisbane",-27.4748,153.017
+1.0.1.0,1.0.3.255,AS,CN,Fujian,Qingzhou,26.4837,117.925
+1.0.4.0,1.0.7.255,OC,AU,Victoria,"Narre Warren",-38.0267,145.301
+1.0.8.0,1.0.15.255,AS,CN,Guangdong,"Guangzhou Shi",23.379,113.763
+1.0.16.0,1.0.31.255,AS,JP,Tokyo,Shinjuku,35.6978,139.706
+1.0.32.0,1.0.63.255,AS,CN,Guangdong,"Guangzhou Shi",23.379,113.763
+1.0.64.0,1.0.66.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.67.0,1.0.70.255,AS,JP,Hiroshima,Hiroshima,34.4,132.45
+1.0.71.0,1.0.75.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.76.0,1.0.76.255,AS,JP,Hiroshima,Miyajima,34.2991,132.322
+1.0.77.0,1.0.77.255,AS,JP,Hiroshima,Hiroshima,34.4,132.45
+1.0.78.0,1.0.78.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.79.0,1.0.79.255,AS,JP,Hiroshima,Hiroshima,34.4,132.45
+1.0.80.0,1.0.82.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.83.0,1.0.83.255,AS,JP,Tottori,Kurayoshi,35.4333,133.817
+1.0.84.0,1.0.84.255,AS,JP,Tottori,Yonago,35.4333,133.333
+1.0.85.0,1.0.85.255,AS,JP,Shimane,Hiratachō,35.4333,132.817
+1.0.86.0,1.0.87.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.88.0,1.0.88.255,AS,JP,Shimane,Matsue,35.4833,133.05
+1.0.89.0,1.0.90.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.91.0,1.0.92.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.93.0,1.0.95.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.96.0,1.0.98.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.99.0,1.0.99.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.100.0,1.0.100.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.101.0,1.0.103.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.104.0,1.0.104.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.105.0,1.0.106.255,AS,JP,Shimane,Matsue,35.4833,133.05
+1.0.107.0,1.0.107.255,AS,JP,Tottori,Tottori-shi,35.5,134.233
+1.0.108.0,1.0.109.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.110.0,1.0.110.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.111.0,1.0.112.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.113.0,1.0.113.255,AS,JP,Tottori,Yonago,35.4333,133.333
+1.0.114.0,1.0.114.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.115.0,1.0.115.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.116.0,1.0.116.255,AS,JP,Shimane,Matsue,35.4833,133.05
+1.0.117.0,1.0.117.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.118.0,1.0.118.255,AS,JP,Tottori,Tottori-shi,35.5,134.233
+1.0.119.0,1.0.120.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.121.0,1.0.121.255,AS,JP,Shimane,Yasugichō,35.4215,133.242
+1.0.122.0,1.0.122.255,AS,JP,Shimane,Yasugi,35.3361,133.184
+1.0.123.0,1.0.123.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.124.0,1.0.124.255,AS,JP,Shimane,Matsue,35.4833,133.05
+1.0.125.0,1.0.125.255,AS,JP,Hiroshima,Higashi-ku,34.4015,132.477
+1.0.126.0,1.0.127.255,AS,JP,Shimane,Izumo,35.3667,132.767
+1.0.128.0,1.0.128.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.129.0,1.0.129.255,AS,TH,Bangkok,Bangkok,13.7563,100.502
+1.0.130.0,1.0.130.255,AS,TH,"Nakhon Pathom","Nakhon Pathom",13.8196,100.044
+1.0.131.0,1.0.132.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.133.0,1.0.133.255,AS,TH,Lopburi,Lopburi,14.7981,100.654
+1.0.134.0,1.0.135.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.136.0,1.0.136.255,AS,TH,"Nakhon Pathom","Sam Phran",13.727,100.215
+1.0.137.0,1.0.137.255,AS,TH,"Surat Thani","Surat Thani",9.14011,99.3331
+1.0.138.0,1.0.138.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.139.0,1.0.139.255,AS,TH,Chanthaburi,"Laem Sing",12.4816,102.074
+1.0.140.0,1.0.140.255,AS,TH,Nonthaburi,"Bang Yai",13.8434,100.363
+1.0.141.0,1.0.142.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.143.0,1.0.143.255,AS,TH,Bangkok,"Phra Nakhon",13.7651,100.499
+1.0.144.0,1.0.144.255,AS,TH,Chumphon,"Lang Suan",9.94561,99.0785
+1.0.145.0,1.0.145.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.146.0,1.0.146.255,AS,TH,Phuket,"Ban Talat Nua",7.88489,98.3856
+1.0.147.0,1.0.149.159,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.149.160,1.0.149.191,AS,TH,"Phang Nga","Khao Lak",8.61501,98.2399
+1.0.149.192,1.0.151.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.152.0,1.0.152.255,AS,TH,Krabi,"Ban Saladan",7.61342,99.0365
+1.0.153.0,1.0.153.255,AS,TH,Phatthalung,Srinagarindra,7.56991,99.9435
+1.0.154.0,1.0.154.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.155.0,1.0.155.255,AS,TH,Phatthalung,Phatthalung,7.61786,100.078
+1.0.156.0,1.0.156.255,AS,TH,"Surat Thani",Kanchanadit,9.16611,99.4701
+1.0.157.0,1.0.157.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.158.0,1.0.158.127,AS,TH,Trang,Trang,7.55633,99.6114
+1.0.158.128,1.0.160.31,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.160.32,1.0.160.255,AS,TH,"Nakhon Si Thammarat","Phra Phrom",8.33911,99.9009
+1.0.161.0,1.0.161.255,AS,TH,Phuket,"Ban Mai Khao",8.12713,98.3074
+1.0.162.0,1.0.163.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.164.0,1.0.164.255,AS,TH,Phatthalung,"Khuan Khanun",7.7347,100.009
+1.0.165.0,1.0.165.255,AS,TH,"Chiang Mai","San Pa Tong",18.6283,98.8957
+1.0.166.0,1.0.166.255,AS,TH,Chumphon,"Lang Suan",9.94561,99.0785
+1.0.167.0,1.0.168.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.169.0,1.0.169.255,AS,TH,Phatthalung,Phatthalung,7.61786,100.078
+1.0.170.0,1.0.170.223,AS,TH,Phatthalung,"Pa Phayom",7.84031,99.9177
+1.0.170.224,1.0.176.31,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.176.32,1.0.176.63,AS,TH,Rayong,"Pluak Daeng",12.9712,101.215
+1.0.176.64,1.0.177.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.178.0,1.0.179.255,AS,TH,Chanthaburi,"Tha Mai",12.6214,102.005
+1.0.180.0,1.0.180.255,AS,TH,Rayong,"Ban Chang",12.7254,101.055
+1.0.181.0,1.0.181.15,AS,TH,"Prachin Buri","Prachin Buri",14.0499,101.369
+1.0.181.16,1.0.184.79,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.184.80,1.0.184.223,AS,TH,Rayong,Rayong,12.681,101.258
+1.0.184.224,1.0.185.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.186.0,1.0.186.191,AS,TH,Chachoengsao,Chachoengsao,13.6882,101.072
+1.0.186.192,1.0.188.95,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.188.96,1.0.188.255,AS,TH,Rayong,"Ban Chang",12.7254,101.055
+1.0.189.0,1.0.189.255,AS,TH,Trat,Trat,12.2436,102.515
+1.0.190.0,1.0.190.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.191.0,1.0.191.255,AS,TH,Chanthaburi,"Tha Mai",12.6214,102.005
+1.0.192.0,1.0.193.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.194.0,1.0.194.255,AS,TH,Phuket,Thalang,8.03169,98.3341
+1.0.195.0,1.0.195.255,AS,TH,Bangkok,"Khwaeng Thung Song Hong",13.8941,100.584
+1.0.196.0,1.0.196.255,AS,TH,"Surat Thani","Koh Pha Ngan",9.75778,100.029
