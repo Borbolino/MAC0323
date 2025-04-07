@@ -1,0 +1,56 @@
+$ java-algs4 InstanceGenerator 1000000 1004385 88888888 | md5
+b68d068cb1141b7c1e0a4761a6688d70
+$ java-algs4 InstanceGenerator 1000000 1004385 88888888 | java-algs4 Check2SAT
+Time to check: 2.686s
+Satisfiable!
+$ java-algs4 InstanceGenerator 1000000 1004386 88888888 | md5
+096c4507c10e55577d94dd4d8fedde78
+$ java-algs4 InstanceGenerator 1000000 1004386 88888888 | java-algs4 Check2SAT
+Time to check: 2.595s
+Not satisfiable!
+$ java-algs4 InstanceGenerator 2000000 2009042 88888888 | md5
+6e09ac1ebb95261a09862b6f6c775118
+$ java-algs4 InstanceGenerator 2000000 2009042 88888888 | java-algs4 Check2SAT
+Time to check: 6.8s
+Satisfiable!
+$ java-algs4 InstanceGenerator 2000000 2009043 88888888 | md5
+45b83063d5b2e7fcbb781befc17bccec
+$ java-algs4 InstanceGenerator 2000000 2009043 88888888 | java-algs4 Check2SAT
+Time to check: 5.676s
+Not satisfiable!
+$ java-algs4 Estimate 100000 100000 100 888 - | md5
+Simulation time: 15.735 seconds
+Fraction satisfiable: 0.94
+d9908e94549e63caf604345a30c3b6b3
+$ java-algs4 Estimate 100000 102500 100 888 - | md5
+Simulation time: 15.955 seconds
+Fraction satisfiable: 0.64
+73dec1c2ce9c66c0772a57bff0183e75
+$ java-algs4 Estimate 100000 105000 100 888 - | md5
+Simulation time: 14.93 seconds
+Fraction satisfiable: 0.14
+d9754cb94d5de4d315bb512d32320d56
+$ java-algs4 Estimate 200000 200000 100 888 - | md5
+Simulation time: 49.522 seconds
+Fraction satisfiable: 0.88
+73d494645e147849467f38a68c19c14e
+$ java-algs4 Estimate 200000 203000 100 888 - | md5
+Simulation time: 50.059 seconds
+Fraction satisfiable: 0.67
+35d18a459e65cc887715bd45e6763c48
+$ java-algs4 Estimate 200000 208000 100 888 - | md5
+Simulation time: 53.257 seconds
+Fraction satisfiable: 0.12
+478aa40b2690185bfeae35af17fa87b3
+$ java-algs4 Estimate 300000 300000 100 888 - | md5
+Simulation time: 82.952 seconds
+Fraction satisfiable: 0.91
+443dd69c5a4663c0fdf27410a5c9ddb5
+$ java-algs4 Estimate 300000 305000 100 888 - | md5
+Simulation time: 79.917 seconds
+Fraction satisfiable: 0.54
+3ec63f88cdf591245209ce0966a6fb26
+$ java-algs4 Estimate 300000 310000 100 888 - | md5
+Simulation time: 78.047 seconds
+Fraction satisfiable: 0.12
+38dc564271846ccf8eb57b562fc9f480

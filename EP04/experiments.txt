@@ -1,0 +1,96 @@
+$ java-algs4 SortingTimes InsertionX  500000   100 50 88888888
+InsertionX: 1.34s
+Local: 1.52s
+Local / InsertionX ratio: 1.14
+$ java-algs4 SortingTimes InsertionX 1000000  1000 50 88888888
+InsertionX: 20.08s
+Local: 5.01s
+Local / InsertionX ratio: 0.25
+$ java-algs4 SortingTimes InsertionX   40000 39999 50 88888888
+InsertionX: 21.30s
+Local: 0.30s
+Local / InsertionX ratio: 0.01
+$ java-algs4 SortingTimes MergeX 1000000   1000 50 88888888
+MergeX: 8.81s
+Local: 5.04s
+Local / MergeX ratio: 0.57
+$ java-algs4 SortingTimes MergeX 1000000   5000 50 88888888
+MergeX: 9.08s
+Local: 6.38s
+Local / MergeX ratio: 0.70
+$ java-algs4 SortingTimes MergeX 1000000  10000 50 88888888
+MergeX: 9.27s
+Local: 7.52s
+Local / MergeX ratio: 0.81
+$ java-algs4 SortingTimes MergeX 2000000   1000 50 88888888
+MergeX: 21.61s
+Local: 9.91s
+Local / MergeX ratio: 0.46
+$ java-algs4 SortingTimes MergeX 2000000   5000 50 88888888
+MergeX: 20.78s
+Local: 12.76s
+Local / MergeX ratio: 0.61
+$ java-algs4 SortingTimes MergeX 2000000  10000 50 88888888
+MergeX: 21.76s
+Local: 15.07s
+Local / MergeX ratio: 0.69
+$ java-algs4 SortingTimes MergeX 1000000 999999 50 88888888
+MergeX: 7.93s
+Local: 14.93s
+Local / MergeX ratio: 1.88
+$ java-algs4 SortingTimes Heap 1000000   1000 50 88888888
+Heap: 7.04s
+Local: 4.95s
+Local / Heap ratio: 0.70
+$ java-algs4 SortingTimes Heap 1000000   5000 50 88888888
+Heap: 8.15s
+Local: 6.47s
+Local / Heap ratio: 0.79
+$ java-algs4 SortingTimes Heap 1000000  10000 50 88888888
+Heap: 8.66s
+Local: 7.70s
+Local / Heap ratio: 0.89
+$ java-algs4 SortingTimes Heap 2000000   1000 50 88888888
+Heap: 14.69s
+Local: 9.88s
+Local / Heap ratio: 0.67
+$ java-algs4 SortingTimes Heap 2000000   5000 50 88888888
+Heap: 16.78s
+Local: 12.73s
+Local / Heap ratio: 0.76
+$ java-algs4 SortingTimes Heap 2000000  10000 50 88888888
+Heap: 17.77s
+Local: 15.17s
+Local / Heap ratio: 0.85
+$ java-algs4 SortingTimes Heap 1000000 999999 50 88888888
+Heap: 14.62s
+Local: 15.26s
+Local / Heap ratio: 1.04
+$ java-algs4 SortingTimes QuickX 1000000   1000 50 88888888
+QuickX: 10.03s
+Local: 5.00s
+Local / QuickX ratio: 0.50
+$ java-algs4 SortingTimes QuickX 1000000   5000 50 88888888
+QuickX: 6.55s
+Local: 6.36s
+Local / QuickX ratio: 0.97
+$ java-algs4 SortingTimes QuickX 1000000  10000 50 88888888
+QuickX: 5.35s
+Local: 7.55s
+Local / QuickX ratio: 1.41
+$ java-algs4 SortingTimes QuickX 2000000   1000 50 88888888
+QuickX: 25.79s
+Local: 10.02s
+Local / QuickX ratio: 0.39
+$ java-algs4 SortingTimes QuickX 2000000   5000 50 88888888
+QuickX: 19.78s
+Local: 12.76s
+Local / QuickX ratio: 0.65
+$ java-algs4 SortingTimes QuickX 2000000  10000 50 88888888
+QuickX: 14.03s
+Local: 15.29s
+Local / QuickX ratio: 1.09
+$ java-algs4 SortingTimes QuickX 1000000 999999 50 88888888
+QuickX: 5.50s
+Local: 14.92s
+Local / QuickX ratio: 2.71

@@ -1,0 +1,78 @@
+$ java-algs4 GenerateAndMatch  1000000  1000000 88888888
+Time to find the matching: 0.389
+Success!
+$ java-algs4 GenerateAndMatch  2000000  2000000 88888888
+Time to find the matching: 0.899
+Success!
+$ java-algs4 GenerateAndMatch  4000000  4000000 88888888
+Time to find the matching: 2.05
+Success!
+$ java-algs4 GenerateAndMatch  8000000  8000000 88888888
+Time to find the matching: 4.805
+Success!
+$ java-algs4 GenerateAndMatch 16000000 16000000 88888888
+Time to find the matching: 11.099
+Success!
+$ java-algs4 GenerateAndMatch 32000000 32000000 88888888
+Time to find the matching: 24.476
+Success!
+$ java-algs4 GenerateAndMatch  1000000  1000000 88888888 -s
+Time to find the matching: 0.148
+Success!
+$ java-algs4 GenerateAndMatch  2000000  2000000 88888888 -s
+Time to find the matching: 0.339
+Success!
+$ java-algs4 GenerateAndMatch  4000000  4000000 88888888 -s
+Time to find the matching: 0.683
+Success!
+$ java-algs4 GenerateAndMatch  8000000  8000000 88888888 -s
+Time to find the matching: 1.122
+Success!
+$ java-algs4 GenerateAndMatch 16000000 16000000 88888888 -s
+Time to find the matching: 2.844
+Success!
+$ java-algs4 GenerateAndMatch 32000000 32000000 88888888 -s
+Time to find the matching: 6.105
+Success!
+$ java-algs4 GenerateAndMatch  1000000 1000 88888888
+Time to find the matching: 0.224
+Success!
+$ java-algs4 GenerateAndMatch  2000000 1000 88888888
+Time to find the matching: 0.509
+Success!
+$ java-algs4 GenerateAndMatch  4000000 1000 88888888
+Time to find the matching: 1.141
+Success!
+$ java-algs4 GenerateAndMatch  8000000 1000 88888888
+Time to find the matching: 2.477
+Success!
+$ java-algs4 GenerateAndMatch 16000000 1000 88888888
+Time to find the matching: 5.152
+Success!
+$ java-algs4 GenerateAndMatch 32000000 1000 88888888
+Time to find the matching: 10.981
+Success!
+$ java-algs4 GenerateAndMatch  1000000 1000 88888888 -s
+Time to find the matching: 0.078
+Success!
+$ java-algs4 GenerateAndMatch  2000000 1000 88888888 -s
+Time to find the matching: 0.146
+Success!
+$ java-algs4 GenerateAndMatch  4000000 1000 88888888 -s
+Time to find the matching: 0.223
+Success!
+$ java-algs4 GenerateAndMatch  8000000 1000 88888888 -s
+Time to find the matching: 0.509
+Success!
+$ java-algs4 GenerateAndMatch 16000000 1000 88888888 -s
+Time to find the matching: 1.026
+Success!
+$ java-algs4 GenerateAndMatch 32000000 1000 88888888 -s
+Time to find the matching: 2.117
+Success!
+$ java-algs4 GenerateAndMatch 32000000 10 88888888
+Time to find the matching: 1.689
+Success!
+$ java-algs4 GenerateAndMatch 32000000 10 88888888 -s
+Time to find the matching: 0.833
+Success!
